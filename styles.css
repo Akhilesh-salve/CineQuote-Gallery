@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.movie-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.movie-box {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.movie-box:hover {
+    transform: translateY(-5px);
+}
+
+.movie-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.movie-title {
+    text-align: center;
+    margin: 10px 0;
+    color: #333;
+}
+
+.quotes-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.quote-box {
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    animation: fadeIn 0.5s ease forwards;
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.hidden {
+    display: none;
+}
+
+/* Different color classes for quotes */
+.color1 { background-color: #FF6B6B; }
+.color2 { background-color: #4ECDC4; }
+.color3 { background-color: #45B7D1; }
+.color4 { background-color: #96CEB4; }
+.color5 { background-color: #FFEEAD; color: #333; }
