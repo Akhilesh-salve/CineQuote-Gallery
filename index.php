@@ -45,6 +45,98 @@ $movies = [
             "Sometimes, goodbye is just a prelude to a new hello."
         ]
     ],
+
+        'past_lives' => [
+        'name'   => 'Past Lives',
+        'image'  => 'https://i.pinimg.com/736x/d5/95/af/d595afde2b1a5fd07ff49b0f142c937b.jpg',
+        'quotes' => [
+        "The echoes of our former lives whisper in the quiet corners of our hearts.",
+        "Fate sometimes writes a story before we even realize the pen is in our hands.",
+        "Every goodbye is a prelude to a rediscovery of self.",
+        "In the tapestry of time, even lost connections weave patterns of destiny.",
+        "The past is never truly gone; it lives in the moments we dare to remember.",
+        "Between what was and what could be, there is a fragile space of longing.",
+        "The heart remembers more than words can ever say.",
+        "A fleeting encounter can awaken a lifetime of memories.",
+        "In the silence of our shared history, hope finds a way to speak."
+    ]
+],
+        'the_lunchbox' => [
+         'name'   => 'The Lunchbox',
+         'image'  => 'https://i.pinimg.com/736x/1d/3e/e8/1d3ee8d0e6dc7977ce08458d037333c4.jpg',
+         'quotes' => [
+        "Sometimes a small meal can nourish a forgotten heart.",
+        "In the quiet exchange of food, life finds a way to speak.",
+        "Love can blossom in the most unexpected corners of everyday life.",
+        "A lunchbox holds not just food, but a secret conversation between souls.",
+        "Every shared meal is a silent promise of care.",
+        "In the spice of life, even solitude finds a flavor of connection.",
+        "Through the clatter of a city, gentle words travel unseen.",
+        "The simplest gesture can bridge the distance between hearts.",
+        "In the art of quiet exchanges, every day becomes a canvas of hope."
+    ]
+],
+        'eternal_sunshine_of_the_spotless_mind' => [
+         'name'   => 'Eternal Sunshine of the Spotless Mind',
+        'image'  => 'https://i.pinimg.com/736x/ef/7f/66/ef7f66d3c01bc8848343119f03c9ed83.jpg',
+         'quotes' => [
+        "In the labyrinth of memories, forgetting can sometimes be the only way to heal.",
+        "Our minds hold the ghosts of our past, even as we chase the promise of tomorrow.",
+        "Every erased memory leaves behind a trace of what once made us whole.",
+        "Love is the echo in the chambers of a mind that refuses to forget.",
+        "In the silence of lost memories, we find the beauty of our scars.",
+        "Sometimes, the pain of remembrance is the price of true connection.",
+        "Even in oblivion, the heart clings to moments of brilliance.",
+        "In the act of erasure, we discover the true imprint of love.",
+        "The fragments of our past light the way to a future unwritten."
+    ]
+],
+        'perks_of_being_a_wallflower' => [
+         'name'   => 'The Perks of Being a Wallflower',
+         'image'  => 'https://i.pinimg.com/736x/ab/e9/0c/abe90c899779e520291fdb7701bc5413.jpg',
+         'quotes' => [
+        "Sometimes the quietest voices hold the loudest dreams.",
+        "In the pages of a diary, we find the courage to embrace our true selves.",
+        "Every heart carries its own story of triumph over loneliness.",
+        "Friendship is the gentle hand that guides us through our darkest days.",
+        "In the shadows of adolescence, every small kindness shines like a beacon.",
+        "A single moment of understanding can transform a lifetime of solitude.",
+        "The beauty of youth lies in its ability to turn pain into poetry.",
+        "Through the eyes of a wallflower, the world reveals its hidden wonders.",
+        "In the journey of growing up, every tear is a step toward finding your place."
+    ]
+],
+     'dead_poets_society' => [
+          'name'   => 'Dead Poets Society',
+          'image'  => 'https://i.pinimg.com/736x/4b/47/04/4b4704cc43394c8dccebede718ec43d7.jpg',
+         'quotes' => [
+        "Carpe diem—seize the day, for our time is fleeting.",
+        "Words can ignite the spark that fuels the fire of rebellion.",
+        "In the embrace of poetry, we find the courage to challenge the ordinary.",
+        "The lessons of the past are written in the ink of passion and defiance.",
+        "Every soul has a verse waiting to be written in the book of life.",
+        "To think for oneself is the greatest tribute to the spirit of freedom.",
+        "In the echo of verses, our hearts awaken to the call of truth.",
+        "We stand on the shoulders of those who dared to dream beyond limits.",
+        "The beauty of life is found in the poetry of our shared moments."
+    ]
+],
+        'drive_my_car' => [
+         'name'   => 'Drive My Car',
+         'image'  => 'https://i.pinimg.com/736x/5f/26/1e/5f261ef4352b410ee354dc28b2d84a71.jpg',
+         'quotes' => [
+        "In the quiet hum of the engine, life's complexities unravel.",
+        "Every journey is a dialogue between the road and our hidden thoughts.",
+        "Behind every turn lies a story of introspection and rediscovery.",
+        "The car carries not just passengers, but the weight of unspoken truths.",
+        "In motion, we find clarity amidst the chaos of our inner worlds.",
+        "Every mile traveled is a step closer to understanding oneself.",
+        "The road whispers secrets that only the heart can comprehend.",
+        "In the solitude of the drive, memories and dreams converge.",
+        "Life, like a car ride, is a continuous quest for meaning in every twist and turn."
+    ]
+],
+
     '2046' => [
         'name'   => '2046',
         'image'  => 'https://m.media-amazon.com/images/I/91Nt3GhQlVL._SL1500_.jpg',
