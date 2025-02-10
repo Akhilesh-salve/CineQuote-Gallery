@@ -183,6 +183,114 @@ $movies = [
                     "To seek revenge is to walk a path paved with the ruins of one's innocence."
                 ]
             ],
+
+
+     'theory_of_everything' => [
+    'name'   => 'The Theory of Everything',
+    'image'  => 'https://i.pinimg.com/736x/3a/66/53/3a665321b76dec713487a101c197c414.jpg',
+    'quotes' => [
+        "In the vast universe of ideas, love and curiosity light our path.",
+        "Every moment of struggle is a glimpse into the beauty of life.",
+        "Through the lens of science, the heart sees the poetry of existence.",
+        "The universe is not only made of stars, but of our shared dreams.",
+        "Even in the face of uncertainty, hope remains our guiding constant.",
+        "The mind may challenge the cosmos, but the heart embraces its wonder.",
+        "In every equation of life, love is the unsolvable mystery that defines us.",
+        "Time bends in the presence of passion and the quest for truth.",
+        "The theory of everything begins with the simple act of wonder."
+    ]
+    ],
+    'zindagi_na_milegi_dobara' => [
+    'name'   => 'Zindagi Na Milegi Dobara',
+    'image'  => 'https://i.pinimg.com/736x/da/fe/79/dafe794c95c3b584c8dfcdb78f739dff.jpg',
+    'quotes' => [
+        "Life’s journey is best traveled with laughter and fearless hearts.",
+        "In the rhythm of life's adventures, every moment is a celebration.",
+        "When we choose to live, we rewrite the map of our destiny.",
+        "Friendship and adventure turn ordinary days into extraordinary memories.",
+        "Sometimes, the best way to find yourself is to lose yourself in the thrill of life.",
+        "The spirit of freedom lives in the courage to chase our wildest dreams.",
+        "Every sunrise is a promise of new beginnings and endless possibilities.",
+        "Dancing in the rain, we find the beauty in letting go.",
+        "In every fleeting moment, there lies a lifetime of joy waiting to be embraced."
+    ]
+    ],
+    'atonement' => [
+    'name'   => 'Atonement',
+    'image'  => 'https://i.pinimg.com/736x/32/89/04/32890498535e7b7cddc970de9db98f8e.jpg',
+    'quotes' => [
+        "In the silence of a mistake, the echoes of regret linger eternally.",
+        "Every moment misremembered can alter the course of destiny.",
+        "In the realm of forgiveness, even the darkest errors may find a glimmer of light.",
+        "Words unspoken often become the heaviest burdens of the heart.",
+        "The scars of a misjudgment remind us of the fragile nature of truth.",
+        "Through the lens of remorse, love seeks a path to redemption.",
+        "In the interplay of memory and longing, the heart learns its hardest lessons.",
+        "Every choice casts a shadow that time can never fully erase.",
+        "The journey toward forgiveness begins with the courage to face our own mistakes."
+    ]
+    ],
+    'the_pianist' => [
+    'name'   => 'The Pianist',
+    'image'  => 'https://i.pinimg.com/736x/c5/6f/38/c56f3899d7fe389beb109984db39fc85.jpg',
+    'quotes' => [
+        "In the midst of chaos, a melody can be the soul’s sanctuary.",
+        "Every note played becomes a testament to the resilience of the human spirit.",
+        "Music is the language that defies the silence of despair.",
+        "In the darkest hours, the piano sings a song of hope and survival.",
+        "Each chord strikes a balance between pain and the will to live.",
+        "Amidst the ruins of war, music offers a whisper of redemption.",
+        "In every key, there lies a story of loss, courage, and rebirth.",
+        "The echo of a single note can illuminate the shadow of memories.",
+        "Through the strains of melody, we remember the strength of the human heart."
+    ]
+    ],
+    'the_shawshank_redemption' => [
+    'name'   => 'The Shawshank Redemption',
+    'image'  => 'https://i.pinimg.com/736x/fc/34/a4/fc34a444792cf7f54566c66446d53140.jpg',
+    'quotes' => [
+        "Hope is the beacon that shines even in the darkest cell.",
+        "Every small act of rebellion is a declaration of the human spirit.",
+        "Freedom is found not in the walls that confine us, but in the dreams that set us free.",
+        "In the depths of despair, a single spark of hope can ignite a revolution.",
+        "The chains of confinement can never hold the wings of aspiration.",
+        "Sometimes, the hardest prisons are built within our own hearts.",
+        "A quiet defiance can be the loudest cry for liberation.",
+        "Every moment of despair holds the promise of a brighter tomorrow.",
+        "In the end, redemption is born from the courage to endure."
+    ]
+    ],
+    'ocean_waves' => [
+    'name'   => 'Ocean Waves',
+    'image'  => 'https://i.pinimg.com/474x/3e/de/ea/3edeea13af7b8db0eedd7f61dd94f14c.jpg',
+    'quotes' => [
+        "Like the tide, memories come and go, leaving traces on the shore of our hearts.",
+        "In the whisper of the waves, we find the secrets of a fleeting youth.",
+        "Every ripple carries the echo of a long-forgotten dream.",
+        "The ocean speaks in a language of endless possibility and serene melancholy.",
+        "As the waves dance upon the shore, so do our lives in an eternal rhythm.",
+        "In the ebb and flow of time, love is as transient as a seaside whisper.",
+        "The vastness of the ocean mirrors the depths of our emotions.",
+        "With every crashing wave, the heart learns to let go.",
+        "In the harmony of the sea, we discover the art of embracing impermanence."
+    ]
+    ],
+    'anand' => [
+    'name'   => 'Anand',
+    'image'  => 'https://i.pinimg.com/736x/23/d7/ef/23d7ef81a31c4d0a88aa518c15858fe0.jpg',
+    'quotes' => [
+        "In the warmth of a smile, life reveals its endless joy.",
+        "Every heartbeat sings the song of living, vibrant and true.",
+        "In the laughter of a kind soul, we find the remedy for all sorrows.",
+        "Life is a celebration when you embrace every fleeting moment.",
+        "Through the eyes of joy, even the mundane sparkles with wonder.",
+        "Every shared moment of happiness lights up the darkest days.",
+        "In the embrace of friendship, life finds its true meaning.",
+        "Joy is not measured in years, but in the love we give and receive.",
+        "In the dance of existence, every step is a note in the symphony of life."
+    ]
+    ],
+
             'lady_vengeance' => [
                 'name'  => 'Sympathy for Lady Vengeance',
                 'image' => 'https://media.senscritique.com/media/000018686523/0/lady_vengeance.jpg',
