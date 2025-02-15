@@ -1,4 +1,5 @@
 <?php
+//movie data and quotes
 $movies = [
     'in_the_mood_for_love' => [
         'name'   => 'In the Mood for Love',
@@ -339,6 +340,7 @@ $movies = [
         ];
 
 ?>
+<!-- html code starting -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
